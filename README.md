@@ -1,2 +1,2 @@
-# mycdn1
-加速资源
+# mycdn
+mycdn
